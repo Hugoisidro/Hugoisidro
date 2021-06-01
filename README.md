@@ -1,7 +1,7 @@
-### Hi there 👋
+Hola! mi nombre es Hugo, me da gusto que hayas llegado aqui. Muy agradecido con tu visita. 
 
-<!--
-**Hugoisidro/Hugoisidro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy entusiasta en finazas, economia conductual, economia internacional y las telecomunicaciones.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
